@@ -35,3 +35,24 @@ The following metrics will be used to assess the project's success:
   Yes, the consumer is now a deposit customer.
 
   no = the consumer rejects the deposit
+# Modelling
+Gaussian Naive Bayes, Gradient Boosting, DecisionTree, Random Forest, and KNeighbors are the models that were used. The best model is then chosen based on a cross-validation evaluation of model performance. Gradient Boosting, which was generated using hyperparameter tuning and had a 100% train set accuracy and an 86% test set, is the best model that could be found.
+# Project Conclusion
+1. Based on Exploratory Data Analysis (EDA) :
+- The majority of consumers are stable financially and between the ages of 38 and 42.
+- The stability, analytical skills, and simplicity of management, engineering, and administrative jobs all affect deposit choices.
+- Education has an impact; whereas higher education prefers complexity, secondary education prefers simplicity.
+- Promotions only apply during specific months and holidays.
+- Prediction models, in particular Gradient Boosting, successfully pinpoint potential clients.
+  The majority hasn't used deposits yet; more education is needed.
+- Special incentives and educational programs raise interest and awareness.
+2. Business Insights :
+- The most common occupational backgrounds are management, technicians, and administration. This suggests possibilities for developing targeted marketing tactics for each demographic.
+- Job type influences time deposit preferences. Management demands consistency, technicians are analytical, and administration seeks convenience. A tailored marketing plan can boost attractiveness to each demographic.
+- Offering particular incentives to specific client groups, such as higher interest rates on term deposits, can encourage interest and promote participation. This strategy can also concentrate on certain moments that are important to the demands of the customer.
+- According to data, the vast majority of clients have not used time deposits. This could be an opportunity to create related items or versions that better meet the needs and preferences of customers.
+
+
+
+
+  

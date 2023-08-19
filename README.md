@@ -1,4 +1,4 @@
-# Final_Project
+# Final_Project_Bank_Deposit_Analysis_and_Management_Strategy
 Authors: Mathilda Hosiana Tambun
 # Overview
 The overall goal is to create machine learning models that can forecast consumer deposits reliably based on historical data.
